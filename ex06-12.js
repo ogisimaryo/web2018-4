@@ -5,7 +5,7 @@ function ThreeSecChange() {
   
 
 function imgchange12() {
-  document.getElementById('logo2').src = './image/bulbon.jpg';
+  document.getElementById('logo2').src = './image/電球.jpg';
 }
 
 

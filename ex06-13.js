@@ -21,5 +21,5 @@ function imgchange2() {
 //}
 
 function imgback() {
-  document.getElementById('img13').src = './image/bulbon.jpg';
+  document.getElementById('img13').src = './image/電球.jpg';
 }
